@@ -1,0 +1,13 @@
+body {
+    font-family: arial; 
+    color: black; 
+    font-size: 14px; 
+    background-color: gray;
+}
+
+img.floatleft {
+  float: left;
+  margin: 5px;
+}
+
+  
